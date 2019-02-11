@@ -29,6 +29,6 @@ module Asagao
 
     # Don't generate system test files.
     config.generators.system_tests = nil
-    config.timek_zone = "Tokyo"
+    config.time_zone = "Tokyo"
   end
 end
